@@ -1,6 +1,8 @@
-==Kogu järgnev test on loodud AI poolt==
+
 # AI Management, Risk Management, and Governance Presentation
 ## README
+
+==Kogu järgnev tekst on loodud AI poolt==
 
 This document provides an overview of the presentation package contents and guidance for use.
    - [Presentation slides](speaker_notes.md) 
