@@ -1,3 +1,4 @@
+==Kogu järgnev test on loodud AI poolt==
 # AI Management, Risk Management, and Governance Presentation
 ## README
 
